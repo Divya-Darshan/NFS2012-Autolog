@@ -1,4 +1,4 @@
-# NFSMW2012 — Autolog Emu
+# NFSMW2012 Autolog Emu
 
 Bring Autolog back to *Need for Speed: Most Wanted (2012)* 
 

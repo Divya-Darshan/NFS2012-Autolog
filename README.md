@@ -1,6 +1,6 @@
 # NFSMW2012 — Autolog Emu
 
-Bring Autolog back to *Need for Speed: Most Wanted (2012)* — community-led, simple, and fun.
+Bring Autolog back to *Need for Speed: Most Wanted (2012)* 
 
 <img src="./img/nfs_most_wanted_2012.jpg" alt="Banner" style="width:100%; display:block; margin:0 auto; border-radius:5px;  " />
 
@@ -80,17 +80,3 @@ over a maximum of 30 hops:
 
 Trace complete 
 ```
-
-## 🤝 Want to Help?
-
-- Capture and share `.bin` traffic files  
-- Help decode packet formats  
-- Build fake replies to bring back multiplayer  
-- Test once the reply server is ready
-
----
-
-## 🌟 Fun Notes
-
-Keep it friendly, share what you find, and have fun reviving this game together!  
-We’re doing this for the love of the game 🎮✨

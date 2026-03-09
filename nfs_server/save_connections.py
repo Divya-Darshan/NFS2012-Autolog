@@ -8,7 +8,7 @@ OUTDIR = "captures"
 os.makedirs(OUTDIR, exist_ok=True)
 
 def dump(prefix, data):
-    ts = datetime.utcnow().strftime("%Y%m%dT%H%M%S.%f")[:-3]
+    ts = datetime.utcnow().strftime("%Y%m%dT%H%M%S.%f")[:-3] # This is all shit What I was even thinking 😂
     fn = f"{prefix}_{ts}.bin"
     p = os.path.join(OUTDIR, fn)
     with open(p,"wb") as f:
